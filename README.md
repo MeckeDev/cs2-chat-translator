@@ -41,6 +41,7 @@ Translate Counter-Strike 2 chat messages in real time using simple in-game comma
     * auto-translate to console
    
 *  **Clean GUI**
+
   * The tool now starts a HTTP server that allows you to open the Chat in a clean GUI in your Browser<br/>
 
     
