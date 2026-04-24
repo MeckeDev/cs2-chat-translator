@@ -42,11 +42,9 @@ Translate Counter-Strike 2 chat messages in real time using simple in-game comma
    
 *  **Clean GUI**
   * The tool now starts a HTTP server that allows you to open the Chat in a clean GUI in your Browser
-  * <img width="1094" height="1001" alt="grafik" src="https://github.com/user-attachments/assets/41e52a26-f599-4a11-b94c-f3de760ef4f2" />
-  
-    <img width="424" height="761" alt="grafik" src="https://github.com/user-attachments/assets/171036f2-d416-4990-a733-ef783f84e52a" />
-
-    <img width="531" height="508" alt="grafik" src="https://github.com/user-attachments/assets/7e091b66-11a8-46fe-ba95-0f15a3b91cf1" />
+  * <img width="1094" height="1001" alt="grafik" src="https://github.com/user-attachments/assets/41e52a26-f599-4a11-b94c-f3de760ef4f2" /><br/>
+    <img width="424" height="761" alt="grafik" src="https://github.com/user-attachments/assets/171036f2-d416-4990-a733-ef783f84e52a" /><br/>
+    <img width="531" height="508" alt="grafik" src="https://github.com/user-attachments/assets/7e091b66-11a8-46fe-ba95-0f15a3b91cf1" /><br/>
 
 
 
